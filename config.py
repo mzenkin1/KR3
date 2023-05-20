@@ -1,0 +1,1 @@
+SOURCE_PATH = "/Users/maksimzenkin/PycharmProjects/KR3/operations.json"
